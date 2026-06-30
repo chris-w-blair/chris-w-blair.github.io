@@ -1,0 +1,68 @@
+/* Supplemental tweaks layered on theme.scss */
+
+/* ---- About / landing ---- */
+.about-links .about-link { font-size: 0.9rem; }
+
+/* ---- Publication & paper entries ---- */
+.pub {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  padding: 1.5rem 0;
+  border-top: 1px solid #d9d6d0;
+}
+.pub:first-of-type { border-top: none; }
+.pub p { margin-bottom: 0.3rem; }
+.pubnum {
+  flex: 0 0 3rem;
+  font-weight: 700;
+  color: #1f4e79;
+  font-size: 1.05rem;
+  line-height: 1.55;
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+.pub-body { flex: 1 1 auto; min-width: 0; }
+.award { color: #1f4e79; font-size: 0.88rem; }
+
+details > summary { font-weight: 500; color: #1f4e79; }
+details > div, details > p { margin-top: 0.5rem; color: #333; }
+
+/* Figures inside the abstract accordion (large) */
+.pub-figs { margin: 1rem 0 0.25rem; }
+.pub-figs img {
+  display: block;
+  width: 100%;
+  max-width: 660px;
+  height: auto;
+  margin: 0.85rem 0;
+  border: 1px solid #e7e7e7;
+  border-radius: 6px;
+  background: #fff;
+  padding: 6px;
+}
+.pub-figs img:only-child { max-width: 100%; }
+@media (max-width: 680px) {
+  .pub { gap: 0.6rem; padding: 1.2rem 0; }
+  .pubnum { flex-basis: 2.4rem; font-size: 0.95rem; }
+}
+
+
+/* ---- Section intros ---- */
+.lead { font-size: 1.08rem; color: #444; }
+
+/* ---- Research agenda blocks ---- */
+.agenda h3 { margin-top: 2rem; }
+.qa { font-weight: 600; }
+
+/* ---- Misc ---- */
+.btn-primary { --bs-btn-bg: #1f4e79; --bs-btn-border-color: #1f4e79;
+  --bs-btn-hover-bg: #2c6aa0; --bs-btn-hover-border-color: #2c6aa0; }
+img.figure-img, .content img { border-radius: 6px; }
+
+
+/* Bold all links within publication entries */
+.pub-body a { font-weight: 700; }
+
+/* Bold links in the home-page bio */
+.about-contents a { font-weight: 700; }
