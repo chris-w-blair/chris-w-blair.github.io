@@ -1,0 +1,42 @@
+/*-- scss:defaults --*/
+
+// Palette: a restrained, scholarly look with a deep-navy accent
+$primary:        #1f4e79;   // links & buttons (deep navy)
+$body-color:     #24292e;
+$link-color:     #1f4e79;
+$link-hover-color: #2c6aa0;
+
+$navbar-bg:      #ffffff;
+$navbar-fg:      #24292e;
+$footer-bg:      #ffffff;
+
+$headings-color: #1a1a1a;
+$headings-font-weight: 600;
+$font-size-root: 17px;
+$line-height-base: 1.6;
+
+/*-- scss:rules --*/
+
+.navbar {
+  border-bottom: 1px solid #eceae6;
+  box-shadow: none;
+}
+.navbar-title { font-weight: 700; letter-spacing: .2px; }
+
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+// Tighten the about-page subtitle
+.quarto-title .subtitle { color: #6a6a6a; font-weight: 400; }
+
+// Publication / entry styling
+h3 { margin-top: 1.6rem; }
+
+details > summary {
+  cursor: pointer;
+  color: $link-color;
+  font-size: .92rem;
+}
+details[open] > summary { margin-bottom: .5rem; }
+
+.page-footer { color: #8a8a8a; font-size: .85rem; }

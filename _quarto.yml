@@ -1,0 +1,54 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - img/
+    - files/
+    - CNAME
+
+website:
+  title: "Christopher W. Blair"
+  description: "Christopher W. Blair is an Assistant Professor of Politics at Princeton University studying the political economy of conflict, migration, and climate change."
+  site-url: "https://chriswblair.com"
+  open-graph: true
+  navbar:
+    pinned: true
+    title: "Christopher W. Blair"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Data"
+        href: data.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Commentary"
+        href: commentary.qmd
+    right:
+      - icon: envelope
+        href: "mailto:chris.blair@princeton.edu"
+        aria-label: "Email"
+      - icon: bluesky
+        href: "https://bsky.app/profile/chriswblair.bsky.social"
+        aria-label: "Bluesky"
+  page-footer:
+    border: true
+    left: "&copy; 2026 Christopher W. Blair"
+    right: "Made with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - theme.scss
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    grid:
+      body-width: 920px
