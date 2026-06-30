@@ -11,6 +11,7 @@ website:
   description: "Christopher W. Blair is an Assistant Professor of Politics at Princeton University studying the political economy of conflict, migration, and climate change."
   site-url: "https://chriswblair.com"
   open-graph: true
+  google-analytics: "G-9WGG4N5RZR"
   navbar:
     pinned: true
     title: "Christopher W. Blair"
