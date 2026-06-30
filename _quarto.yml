@@ -4,6 +4,7 @@ project:
   resources:
     - img/
     - files/
+    - CNAME
 
 website:
   title: "Christopher W. Blair"
