@@ -64,5 +64,8 @@ img.figure-img, .content img { border-radius: 6px; }
 /* Bold all links within publication entries */
 .pub-body a { font-weight: 700; }
 
+/* Ensure any bold-wrapped link renders at full weight (e.g. commentary titles) */
+strong a, a strong { font-weight: 700; }
+
 /* Bold links in the home-page bio */
 .about-contents a { font-weight: 700; }
