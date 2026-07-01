@@ -987,6 +987,21 @@ Abstract
 </div>
   </div>
 </footer>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var here = window.location.hostname;
+  document.querySelectorAll('a[href]').forEach(function (a) {
+    var href = a.getAttribute('href') || '';
+    if (!href || href.charAt(0) === '#') return;
+    var isPdf = /\.pdf(\?|#|$)/i.test(href);
+    var isExternal = /^(https?:)?\/\//i.test(href) && a.hostname !== here;
+    if (isPdf || isExternal) {
+      a.setAttribute('target', '_blank');
+      a.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
+});
+</script>
 
 
 
