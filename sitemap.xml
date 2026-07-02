@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://chriswblair.com/data.html</loc>
-    <lastmod>2026-07-01T13:54:43.132Z</lastmod>
+    <lastmod>2026-07-02T00:22:20.232Z</lastmod>
   </url>
   <url>
     <loc>https://chriswblair.com/commentary.html</loc>
@@ -10,18 +10,22 @@
   </url>
   <url>
     <loc>https://chriswblair.com/research-migration.html</loc>
-    <lastmod>2026-07-01T22:46:54.123Z</lastmod>
+    <lastmod>2026-07-02T00:22:20.232Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chriswblair.com/data-mgar.html</loc>
+    <lastmod>2026-07-02T00:22:20.231Z</lastmod>
   </url>
   <url>
     <loc>https://chriswblair.com/index.html</loc>
     <lastmod>2026-07-01T18:21:06.593Z</lastmod>
   </url>
   <url>
-    <loc>https://chriswblair.com/research.html</loc>
-    <lastmod>2026-07-01T22:46:54.123Z</lastmod>
+    <loc>https://chriswblair.com/data-in-development.html</loc>
+    <lastmod>2026-07-02T00:22:20.232Z</lastmod>
   </url>
   <url>
-    <loc>https://chriswblair.com/research-book-project.html</loc>
+    <loc>https://chriswblair.com/research-public-opinion.html</loc>
     <lastmod>2026-07-01T22:46:54.123Z</lastmod>
   </url>
   <url>
@@ -29,12 +33,28 @@
     <lastmod>2026-07-01T18:37:33.604Z</lastmod>
   </url>
   <url>
-    <loc>https://chriswblair.com/research-public-opinion.html</loc>
+    <loc>https://chriswblair.com/research-book-project.html</loc>
     <lastmod>2026-07-01T22:46:54.123Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chriswblair.com/research.html</loc>
+    <lastmod>2026-07-01T22:46:54.123Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chriswblair.com/data-dwrap.html</loc>
+    <lastmod>2026-07-02T00:22:20.231Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chriswblair.com/data-somalia-sigacts.html</loc>
+    <lastmod>2026-07-02T00:22:20.232Z</lastmod>
   </url>
   <url>
     <loc>https://chriswblair.com/publications.html</loc>
     <lastmod>2026-07-01T22:21:38.055Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chriswblair.com/data-afghanistan-sigacts.html</loc>
+    <lastmod>2026-07-02T00:22:20.231Z</lastmod>
   </url>
   <url>
     <loc>https://chriswblair.com/cv.html</loc>
@@ -42,6 +62,6 @@
   </url>
   <url>
     <loc>https://chriswblair.com/research-conflict.html</loc>
-    <lastmod>2026-07-01T22:46:54.123Z</lastmod>
+    <lastmod>2026-07-02T00:22:20.232Z</lastmod>
   </url>
 </urlset>
