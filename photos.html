@@ -246,37 +246,57 @@ gtag('config', 'G-9WGG4N5RZR', { 'anonymize_ip': true});
 </header>
 
 
-<p>Photographs from fieldwork, conferences, and travel. Click any image to enlarge.</p>
+<p>Photographs from fieldwork and travel. Click any image to enlarge; use the arrows to browse an album.</p>
 <!--
+Albums: Uganda · Europe · Georgia · Israel.
 To add a photo: drop the image in img/photos/ (downscale with `sips -Z 1600` if large),
-then add a line inside the .photo-grid div below:
-![Caption text.](img/photos/filename.jpg){group="photos"}
-Images sharing a group= value are browsable with arrows in the lightbox.
-Sections (## Fieldwork, ## Conferences, ...) can be added once there are enough photos;
-give each section's images their own group.
+then add a line inside the album's .photo-grid div:
+![Caption text.](img/photos/filename.jpg){group="album-slug"}
+Images sharing a group= value are browsable with arrows in the lightbox — keep one group
+per album (uganda / europe / georgia / israel). The Georgia and Israel albums below are
+commented out until they have photos; uncomment when populating.
 -->
+<section id="uganda" class="level2">
+<h2 class="anchored" data-anchor-id="uganda">Uganda</h2>
 <div class="photo-grid">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/photos/uganda-lake-victoria.jpg" class="lightbox" data-gallery="photos" title="Overlooking Lake Victoria, Uganda."><img src="img/photos/uganda-lake-victoria.jpg" class="img-fluid figure-img" alt="Overlooking Lake Victoria, Uganda."></a></p>
+<p><a href="img/photos/uganda-lake-victoria.jpg" class="lightbox" data-gallery="uganda" title="Overlooking Lake Victoria, Uganda."><img src="img/photos/uganda-lake-victoria.jpg" class="img-fluid figure-img" alt="Overlooking Lake Victoria, Uganda."></a></p>
 <figcaption>Overlooking Lake Victoria, Uganda.</figcaption>
 </figure>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="img/photos/pkk-graffiti.jpg" class="lightbox" data-gallery="photos" title="PKK graffiti honoring Abdullah Öcalan (“Apo”)."><img src="img/photos/pkk-graffiti.jpg" class="img-fluid figure-img" alt="PKK graffiti honoring Abdullah Öcalan (“Apo”)."></a></p>
-<figcaption>PKK graffiti honoring Abdullah Öcalan (“Apo”).</figcaption>
-</figure>
 </div>
+</section>
+<section id="europe" class="level2">
+<h2 class="anchored" data-anchor-id="europe">Europe</h2>
+<div class="photo-grid">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/photos/tallinn-old-town.jpg" class="lightbox" data-gallery="photos" title="Rooftops of the Old Town, Tallinn, Estonia."><img src="img/photos/tallinn-old-town.jpg" class="img-fluid figure-img" alt="Rooftops of the Old Town, Tallinn, Estonia."></a></p>
+<p><a href="img/photos/tallinn-old-town.jpg" class="lightbox" data-gallery="europe" title="Rooftops of the Old Town, Tallinn, Estonia."><img src="img/photos/tallinn-old-town.jpg" class="img-fluid figure-img" alt="Rooftops of the Old Town, Tallinn, Estonia."></a></p>
 <figcaption>Rooftops of the Old Town, Tallinn, Estonia.</figcaption>
 </figure>
 </div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/photos/pkk-graffiti.jpg" class="lightbox" data-gallery="europe" title="PKK graffiti honoring Abdullah Öcalan (“Apo”)."><img src="img/photos/pkk-graffiti.jpg" class="img-fluid figure-img" alt="PKK graffiti honoring Abdullah Öcalan (“Apo”)."></a></p>
+<figcaption>PKK graffiti honoring Abdullah Öcalan (“Apo”).</figcaption>
+</figure>
 </div>
+</div>
+<!--
+## Georgia
+
+::: {.photo-grid}
+:::
+
+## Israel
+
+::: {.photo-grid}
+:::
+-->
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
