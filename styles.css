@@ -139,3 +139,31 @@ strong a, a strong { font-weight: 700; }
   .fig-carousel.tall .carousel-control-next { height: 440px; }
   .fig-carousel .carousel-caption-below { padding: 0.6rem 1rem 0.35rem; }
 }
+
+/* Photos page: responsive masonry grid (pairs with Quarto's built-in lightbox) */
+.photo-grid {
+  column-count: 3;
+  column-gap: 0.8rem;
+  margin: 0.5rem 0 1.5rem;
+}
+.photo-grid figure,
+.photo-grid .quarto-figure,
+.photo-grid p {
+  break-inside: avoid;
+  margin: 0 0 0.8rem;
+}
+.photo-grid img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 6px;
+}
+.photo-grid figcaption {
+  color: #555;
+  font-size: 0.85rem;
+  line-height: 1.45;
+  text-align: left;
+  margin-top: 0.35rem;
+}
+@media (max-width: 900px) { .photo-grid { column-count: 2; } }
+@media (max-width: 560px) { .photo-grid { column-count: 1; } }
