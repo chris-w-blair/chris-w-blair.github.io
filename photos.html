@@ -251,7 +251,7 @@ gtag('config', 'G-9WGG4N5RZR', { 'anonymize_ip': true});
 
 <p>Photographs from fieldwork and travel. Click any image to enlarge; use the arrows to browse an album.</p>
 <!--
-Albums: Uganda · Europe · Georgia · Levant.
+Albums: Uganda · Europe · Georgia · Israel/Palestine.
 To add a photo: drop the image in img/photos/ (downscale with `sips -Z 1600` if large),
 then add a line inside the album's .photo-grid div (each image needs a blank line
 before and after it, or Quarto merges consecutive images into one paragraph instead
@@ -260,6 +260,10 @@ of separate figures):
 Images sharing a group= value are browsable with arrows in the lightbox — keep one group
 per album (uganda / europe / georgia / levant). The Georgia album below is
 commented out until it has photos; uncomment when populating.
+The "Israel/Palestine" album heading displays that name, but its internal id/group
+stays "levant" (heading was originally "Levant") so existing cached image URLs and
+lightbox grouping keep working — new photos still use group="levant".
+Heading dates use [Season Year.]{.album-date} for a smaller inline qualifier.
 -->
 <section id="uganda" class="level2">
 <h2 class="anchored" data-anchor-id="uganda">Uganda, <span class="album-date">Summer 2017.</span></h2>
@@ -350,7 +354,7 @@ commented out until it has photos; uncomment when populating.
 </div>
 </section>
 <section id="levant" class="level2">
-<h2 class="anchored" data-anchor-id="levant">Levant</h2>
+<h2 class="anchored" data-anchor-id="levant">Israel/Palestine, <span class="album-date">Summer 2026.</span></h2>
 <div class="photo-grid">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
