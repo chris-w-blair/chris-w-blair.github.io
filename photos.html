@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -38,10 +41,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-81d0122691f3feac55e1ca9abf889d9d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-9cb049c2ef5a22c29d69c7f3a0603708.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
 <link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
@@ -89,7 +92,7 @@ gtag('config', 'G-9WGG4N5RZR', { 'anonymize_ip': true});
 <meta property="og:description" content="Christopher W. Blair is an Assistant Professor of Politics at Princeton University studying the political economy of conflict, migration, and climate change.">
 <meta property="og:image" content="https://chriswblair.com/img/photos/uganda-lake-victoria.jpg">
 <meta property="og:site_name" content="Christopher W. Blair">
-<meta property="og:image:alt" content="Overlooking Lake Victoria, Uganda.">
+<meta property="og:image:alt" content="Lake Victoria as seen from Muyenga, Kampala, Uganda.">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -250,19 +253,81 @@ gtag('config', 'G-9WGG4N5RZR', { 'anonymize_ip': true});
 <!--
 Albums: Uganda · Europe · Georgia · Levant.
 To add a photo: drop the image in img/photos/ (downscale with `sips -Z 1600` if large),
-then add a line inside the album's .photo-grid div:
+then add a line inside the album's .photo-grid div (each image needs a blank line
+before and after it, or Quarto merges consecutive images into one paragraph instead
+of separate figures):
 ![Caption text.](img/photos/filename.jpg){group="album-slug"}
 Images sharing a group= value are browsable with arrows in the lightbox — keep one group
 per album (uganda / europe / georgia / levant). The Georgia album below is
 commented out until it has photos; uncomment when populating.
 -->
 <section id="uganda" class="level2">
-<h2 class="anchored" data-anchor-id="uganda">Uganda</h2>
+<h2 class="anchored" data-anchor-id="uganda">Uganda, <span class="album-date">Summer 2017.</span></h2>
 <div class="photo-grid">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="img/photos/uganda-lake-victoria.jpg" class="lightbox" data-gallery="uganda" title="Overlooking Lake Victoria, Uganda."><img src="img/photos/uganda-lake-victoria.jpg" class="img-fluid figure-img" alt="Overlooking Lake Victoria, Uganda."></a></p>
-<figcaption>Overlooking Lake Victoria, Uganda.</figcaption>
+<p><a href="img/photos/uganda-lake-victoria.jpg" class="lightbox" data-gallery="uganda" title="Lake Victoria as seen from Muyenga, Kampala, Uganda."><img src="img/photos/uganda-lake-victoria.jpg" class="img-fluid figure-img" alt="Lake Victoria as seen from Muyenga, Kampala, Uganda."></a></p>
+<figcaption>Lake Victoria as seen from Muyenga, Kampala, Uganda.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/photos/uganda-katwe-urban-refugee-community.jpg" class="lightbox" data-gallery="uganda" title="An urban refugee community in Katwe, Kampala, Uganda."><img src="img/photos/uganda-katwe-urban-refugee-community.jpg" class="img-fluid figure-img" alt="An urban refugee community in Katwe, Kampala, Uganda."></a></p>
+<figcaption>An urban refugee community in Katwe, Kampala, Uganda.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/photos/uganda-katwe-burundian-congolese-homes.jpg" class="lightbox" data-gallery="uganda" title="Homes of Burundian and Congolese refugees in Katwe, Kampala, Uganda."><img src="img/photos/uganda-katwe-burundian-congolese-homes.jpg" class="img-fluid figure-img" alt="Homes of Burundian and Congolese refugees in Katwe, Kampala, Uganda."></a></p>
+<figcaption>Homes of Burundian and Congolese refugees in Katwe, Kampala, Uganda.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/photos/uganda-nakivale-football.jpg" class="lightbox" data-gallery="uganda" title="Refugee football teams competing at the Nakivale Refugee Settlement in southwestern Uganda."><img src="img/photos/uganda-nakivale-football.jpg" class="img-fluid figure-img" alt="Refugee football teams competing at the Nakivale Refugee Settlement in southwestern Uganda."></a></p>
+<figcaption>Refugee football teams competing at the Nakivale Refugee Settlement in southwestern Uganda.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/photos/uganda-nakivale-somali-school.jpg" class="lightbox" data-gallery="uganda" title="A schoolbuilding serving Somali- and Arabic-speaking Somali refugees in Uganda’s Nakivale Refugee Settlement."><img src="img/photos/uganda-nakivale-somali-school.jpg" class="img-fluid figure-img" alt="A schoolbuilding serving Somali- and Arabic-speaking Somali refugees in Uganda’s Nakivale Refugee Settlement."></a></p>
+<figcaption>A schoolbuilding serving Somali- and Arabic-speaking Somali refugees in Uganda’s Nakivale Refugee Settlement.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/photos/uganda-nakivale-little-congo-market.jpg" class="lightbox" data-gallery="uganda" title="The central market in the Little Congo neighborhood of Nakivale Refugee Settlement."><img src="img/photos/uganda-nakivale-little-congo-market.jpg" class="img-fluid figure-img" alt="The central market in the Little Congo neighborhood of Nakivale Refugee Settlement."></a></p>
+<figcaption>The central market in the Little Congo neighborhood of Nakivale Refugee Settlement.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/photos/uganda-nakivale-ethiopian-satellite-mast.jpg" class="lightbox" data-gallery="uganda" title="A makeshift satellite mast constructed by Ethiopian refugees living at Nakivale."><img src="img/photos/uganda-nakivale-ethiopian-satellite-mast.jpg" class="img-fluid figure-img" alt="A makeshift satellite mast constructed by Ethiopian refugees living at Nakivale."></a></p>
+<figcaption>A makeshift satellite mast constructed by Ethiopian refugees living at Nakivale.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/photos/uganda-nakivale-new-homes.jpg" class="lightbox" data-gallery="uganda" title="New homes under construction in a central area of Nakivale Refugee Settlement."><img src="img/photos/uganda-nakivale-new-homes.jpg" class="img-fluid figure-img" alt="New homes under construction in a central area of Nakivale Refugee Settlement."></a></p>
+<figcaption>New homes under construction in a central area of Nakivale Refugee Settlement.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/photos/uganda-nakivale-unhcr-shelters.jpg" class="lightbox" data-gallery="uganda" title="Temporary UNHCR shelters on the outskirts of Nakivale Refugee Settlement."><img src="img/photos/uganda-nakivale-unhcr-shelters.jpg" class="img-fluid figure-img" alt="Temporary UNHCR shelters on the outskirts of Nakivale Refugee Settlement."></a></p>
+<figcaption>Temporary UNHCR shelters on the outskirts of Nakivale Refugee Settlement.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/photos/uganda-guitar-workshop.jpg" class="lightbox" data-gallery="uganda" title="A refugee-owned guitar-making business in southwestern Uganda."><img src="img/photos/uganda-guitar-workshop.jpg" class="img-fluid figure-img" alt="A refugee-owned guitar-making business in southwestern Uganda."></a></p>
+<figcaption>A refugee-owned guitar-making business in southwestern Uganda.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/photos/uganda-nakivale-host-community-homes.jpg" class="lightbox" data-gallery="uganda" title="Homes of Ugandan host community members near Nakivale Refugee Settlement."><img src="img/photos/uganda-nakivale-host-community-homes.jpg" class="img-fluid figure-img" alt="Homes of Ugandan host community members near Nakivale Refugee Settlement."></a></p>
+<figcaption>Homes of Ugandan host community members near Nakivale Refugee Settlement.</figcaption>
 </figure>
 </div>
 </div>

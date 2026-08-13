@@ -167,3 +167,10 @@ strong a, a strong { font-weight: 700; }
 }
 @media (max-width: 900px) { .photo-grid { column-count: 2; } }
 @media (max-width: 560px) { .photo-grid { column-count: 1; } }
+
+/* Album heading date/season qualifier — smaller, muted gray */
+.album-date {
+  font-size: 0.62em;
+  font-weight: 400;
+  color: #777;
+}

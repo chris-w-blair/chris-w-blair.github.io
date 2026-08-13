@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -38,10 +41,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-81d0122691f3feac55e1ca9abf889d9d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-9cb049c2ef5a22c29d69c7f3a0603708.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -254,48 +257,48 @@ gtag('config', 'G-9WGG4N5RZR', { 'anonymize_ip': true});
 <p><strong>Data:</strong> <a href="https://doi.org/10.7910/DVN/PHUSUM">Replication files (<em>IO</em> 2022)</a> · <a href="https://doi.org/10.7910/DVN/DAQ9PK">Replication files (<em>JOP</em> 2022)</a> · <a href="https://doi.org/10.7910/DVN/MDVLYF">Replication files (<em>JOGSS</em> 2023)</a></p>
 </div>
 <div id="mgarCarousel" class="carousel slide fig-carousel" data-bs-ride="carousel" data-bs-interval="7000">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="img/alliances_orig.png" loading="lazy" alt="Time series of ongoing cooperative relationships between militant groups from 1965 to 2016, as raw counts and as a proportion of all dyads">
-      <div class="carousel-caption-below">Cooperative relationships between militant groups, 1965–2016 — total, material, and rhetorical alliances — in raw counts (left) and as a share of all group dyads (right).</div>
-    </div>
-    <div class="carousel-item">
-      <img src="img/matrelg-dur_orig.png" loading="lazy" alt="Plot of the marginal effect of shared religion on the probability of material-alliance breakdown across levels of state repression">
-      <div class="carousel-caption-below">The marginal effect of shared religion on the hazard of material-alliance breakdown, across levels of state repression. As repression intensifies, shared religion increasingly holds cooperative ties together (effect falls below one).</div>
-    </div>
-    <div class="carousel-item">
-      <img src="img/aq-network_orig.png" loading="lazy" alt="Time series of the number of al-Qaeda alliances from 1988 to 2016, split into material and rhetorical ties">
-      <div class="carousel-caption-below">The growth of al-Qaeda's alliance network, 1988–2016, distinguishing material from rhetorical ties.</div>
-    </div>
-    <div class="carousel-item">
-      <img src="img/is-network_orig.png" loading="lazy" alt="Time series of the number of Islamic State alliances from 2013 to 2016, split into material and rhetorical ties">
-      <div class="carousel-caption-below">The Islamic State's alliance network, 2013–2016, before and after its split with al-Qaeda.</div>
-    </div>
-    <div class="carousel-item">
-      <img src="img/fdecapitation_orig.png" loading="lazy" alt="Survival curves showing the probability of alliance termination when a group's founder is decapitated versus not">
-      <div class="carousel-caption-below">Militant alliances terminate far faster after a group's founding leader is killed (dashed) than when the founder survives (solid).</div>
-    </div>
-    <div class="carousel-item">
-      <img src="img/otherexit_orig.png" loading="lazy" alt="Coefficient plot of the association between different types of leadership removal and alliance breakdown">
-      <div class="carousel-caption-below">Different forms of leadership removal and their association with alliance breakdown — every type raises the probability that an alliance ends.</div>
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#mgarCarousel" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#mgarCarousel" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#mgarCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#mgarCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#mgarCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
-    <button type="button" data-bs-target="#mgarCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
-    <button type="button" data-bs-target="#mgarCarousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
-    <button type="button" data-bs-target="#mgarCarousel" data-bs-slide-to="5" aria-label="Slide 6"></button>
-  </div>
+<div class="carousel-inner">
+<div class="carousel-item active">
+<img src="img/alliances_orig.png" loading="lazy" alt="Time series of ongoing cooperative relationships between militant groups from 1965 to 2016, as raw counts and as a proportion of all dyads">
+<div class="carousel-caption-below">Cooperative relationships between militant groups, 1965–2016 — total, material, and rhetorical alliances — in raw counts (left) and as a share of all group dyads (right).</div>
+</div>
+<div class="carousel-item">
+<img src="img/matrelg-dur_orig.png" loading="lazy" alt="Plot of the marginal effect of shared religion on the probability of material-alliance breakdown across levels of state repression">
+<div class="carousel-caption-below">The marginal effect of shared religion on the hazard of material-alliance breakdown, across levels of state repression. As repression intensifies, shared religion increasingly holds cooperative ties together (effect falls below one).</div>
+</div>
+<div class="carousel-item">
+<img src="img/aq-network_orig.png" loading="lazy" alt="Time series of the number of al-Qaeda alliances from 1988 to 2016, split into material and rhetorical ties">
+<div class="carousel-caption-below">The growth of al-Qaeda's alliance network, 1988–2016, distinguishing material from rhetorical ties.</div>
+</div>
+<div class="carousel-item">
+<img src="img/is-network_orig.png" loading="lazy" alt="Time series of the number of Islamic State alliances from 2013 to 2016, split into material and rhetorical ties">
+<div class="carousel-caption-below">The Islamic State's alliance network, 2013–2016, before and after its split with al-Qaeda.</div>
+</div>
+<div class="carousel-item">
+<img src="img/fdecapitation_orig.png" loading="lazy" alt="Survival curves showing the probability of alliance termination when a group's founder is decapitated versus not">
+<div class="carousel-caption-below">Militant alliances terminate far faster after a group's founding leader is killed (dashed) than when the founder survives (solid).</div>
+</div>
+<div class="carousel-item">
+<img src="img/otherexit_orig.png" loading="lazy" alt="Coefficient plot of the association between different types of leadership removal and alliance breakdown">
+<div class="carousel-caption-below">Different forms of leadership removal and their association with alliance breakdown — every type raises the probability that an alliance ends.</div>
+</div>
+</div>
+<button class="carousel-control-prev" type="button" data-bs-target="#mgarCarousel" data-bs-slide="prev">
+<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+<span class="visually-hidden">Previous</span>
+</button>
+<button class="carousel-control-next" type="button" data-bs-target="#mgarCarousel" data-bs-slide="next">
+<span class="carousel-control-next-icon" aria-hidden="true"></span>
+<span class="visually-hidden">Next</span>
+</button>
+<div class="carousel-indicators">
+<button type="button" data-bs-target="#mgarCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+<button type="button" data-bs-target="#mgarCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+<button type="button" data-bs-target="#mgarCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+<button type="button" data-bs-target="#mgarCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+<button type="button" data-bs-target="#mgarCarousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
+<button type="button" data-bs-target="#mgarCarousel" data-bs-slide-to="5" aria-label="Slide 6"></button>
+</div>
 </div>
 </section>
 <section id="key-references" class="level3">
