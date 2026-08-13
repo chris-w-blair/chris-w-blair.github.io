@@ -22,7 +22,27 @@ commented out until it has photos; uncomment when populating.
 
 ::: {.photo-grid}
 
-![Overlooking Lake Victoria, Uganda.](img/photos/uganda-lake-victoria.jpg){group="uganda"}
+![Lake Victoria as seen from Muyenga, Kampala, Uganda.](img/photos/uganda-lake-victoria.jpg){group="uganda"}
+
+![An urban refugee community in Katwe, Kampala, Uganda.](img/photos/uganda-katwe-urban-refugee-community.jpg){group="uganda"}
+
+![Homes of Burundian and Congolese refugees in Katwe, Kampala, Uganda.](img/photos/uganda-katwe-burundian-congolese-homes.jpg){group="uganda"}
+
+![Refugee football teams competing at the Nakivale Refugee Settlement in southwestern Uganda.](img/photos/uganda-nakivale-football.jpg){group="uganda"}
+
+![A schoolbuilding serving Somali- and Arabic-speaking Somali refugees in Uganda's Nakivale Refugee Settlement.](img/photos/uganda-nakivale-somali-school.jpg){group="uganda"}
+
+![The central market in the Little Congo neighborhood of Nakivale Refugee Settlement.](img/photos/uganda-nakivale-little-congo-market.jpg){group="uganda"}
+
+![A makeshift satellite mast constructed by Ethiopian refugees living at Nakivale.](img/photos/uganda-nakivale-ethiopian-satellite-mast.jpg){group="uganda"}
+
+![New homes under construction in a central area of Nakivale Refugee Settlement.](img/photos/uganda-nakivale-new-homes.jpg){group="uganda"}
+
+![Temporary UNHCR shelters on the outskirts of Nakivale Refugee Settlement.](img/photos/uganda-nakivale-unhcr-shelters.jpg){group="uganda"}
+
+![A refugee-owned guitar-making business in southwestern Uganda.](img/photos/uganda-guitar-workshop.jpg){group="uganda"}
+
+![Homes of Ugandan host community members near Nakivale Refugee Settlement.](img/photos/uganda-nakivale-host-community-homes.jpg){group="uganda"}
 
 :::
 
