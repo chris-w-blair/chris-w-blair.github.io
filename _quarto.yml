@@ -23,17 +23,46 @@ website:
       - text: "Publications"
         href: publications.qmd
       - text: "Research"
-        href: research.qmd
+        menu:
+          - text: "Overview"
+            href: research.qmd
+          - text: "Book Project"
+            href: research-book-project.qmd
+          - text: "Conflict"
+            href: research-conflict.qmd
+          - text: "Migration"
+            href: research-migration.qmd
+          - text: "Public Opinion"
+            href: research-public-opinion.qmd
       - text: "Data"
-        href: data.qmd
+        menu:
+          - text: "Overview"
+            href: data.qmd
+          - text: "Refugee Policy"
+            href: data-dwrap.qmd
+          - text: "Militant Alliances"
+            href: data-mgar.qmd
+          - text: "Afghanistan SIGACTs"
+            href: data-afghanistan-sigacts.qmd
+          - text: "Somalia SIGACTs"
+            href: data-somalia-sigacts.qmd
+          - text: "Coast Guard Interdictions"
+            href: data-coast-guard.qmd
+          - text: "In Development"
+            href: data-in-development.qmd
       - text: "Teaching"
         href: teaching.qmd
       - text: "Commentary"
         href: commentary.qmd
+      - text: "Photos"
+        href: photos.qmd
     right:
       - icon: envelope
         href: "mailto:chris.blair@princeton.edu"
         aria-label: "Email"
+      - icon: mortarboard
+        href: "https://scholar.google.com/citations?user=5VQ8Uw0AAAAJ&hl=en"
+        aria-label: "Google Scholar"
       - icon: bluesky
         href: "https://bsky.app/profile/chriswblair.bsky.social"
         aria-label: "Bluesky"
@@ -53,3 +82,20 @@ format:
     link-external-newwindow: true
     grid:
       body-width: 920px
+    include-after-body:
+      text: |
+        <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          var here = window.location.hostname;
+          document.querySelectorAll('a[href]').forEach(function (a) {
+            var href = a.getAttribute('href') || '';
+            if (!href || href.charAt(0) === '#') return;
+            var isPdf = /\.pdf(\?|#|$)/i.test(href);
+            var isExternal = /^(https?:)?\/\//i.test(href) && a.hostname !== here;
+            if (isPdf || isExternal) {
+              a.setAttribute('target', '_blank');
+              a.setAttribute('rel', 'noopener noreferrer');
+            }
+          });
+        });
+        </script>

@@ -64,5 +64,113 @@ img.figure-img, .content img { border-radius: 6px; }
 /* Bold all links within publication entries */
 .pub-body a { font-weight: 700; }
 
+/* Ensure any bold-wrapped link renders at full weight (e.g. commentary titles) */
+strong a, a strong { font-weight: 700; }
+
 /* Bold links in the home-page bio */
 .about-contents a { font-weight: 700; }
+
+/* Bold reference & download links on the Data pages */
+.data-links a { font-weight: 700; }
+
+
+/* ---- Data-page figure carousel ---- */
+.fig-carousel {
+  max-width: 780px;
+  margin: 1.75rem auto 1.25rem;
+  border: 1px solid #e7e7e7;
+  border-radius: 8px;
+  background: #fff;
+  padding: 12px 12px 0.35rem;
+}
+.fig-carousel .carousel-item img {
+  display: block;
+  width: 100%;
+  height: 430px;
+  object-fit: contain;
+  background: #fff;
+  border-radius: 0;
+}
+.fig-carousel .carousel-caption-below {
+  color: #555;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  text-align: center;
+  padding: 0.75rem 2.75rem 0.35rem;
+}
+/* Keep the prev/next controls over the image area only (not the caption) */
+.fig-carousel .carousel-control-prev,
+.fig-carousel .carousel-control-next {
+  height: 430px;
+  top: 0;
+  bottom: auto;
+  width: 9%;
+  opacity: 0.85;
+}
+.fig-carousel .carousel-control-prev-icon,
+.fig-carousel .carousel-control-next-icon {
+  background-color: #1f4e79;
+  border-radius: 50%;
+  width: 2.2rem;
+  height: 2.2rem;
+  background-size: 55% 55%;
+}
+.fig-carousel .carousel-indicators {
+  position: static;
+  margin: 0.35rem 0 0.6rem;
+}
+.fig-carousel .carousel-indicators [data-bs-target] {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  border: none;
+  background-color: #1f4e79;
+}
+/* Taller variant for portrait figures (e.g. Somalia maps) */
+.fig-carousel.tall .carousel-item img,
+.fig-carousel.tall .carousel-control-prev,
+.fig-carousel.tall .carousel-control-next { height: 600px; }
+@media (max-width: 680px) {
+  .fig-carousel .carousel-item img,
+  .fig-carousel .carousel-control-prev,
+  .fig-carousel .carousel-control-next { height: 300px; }
+  .fig-carousel.tall .carousel-item img,
+  .fig-carousel.tall .carousel-control-prev,
+  .fig-carousel.tall .carousel-control-next { height: 440px; }
+  .fig-carousel .carousel-caption-below { padding: 0.6rem 1rem 0.35rem; }
+}
+
+/* Photos page: responsive masonry grid (pairs with Quarto's built-in lightbox) */
+.photo-grid {
+  column-count: 3;
+  column-gap: 0.8rem;
+  margin: 0.5rem 0 1.5rem;
+}
+.photo-grid figure,
+.photo-grid .quarto-figure,
+.photo-grid p {
+  break-inside: avoid;
+  margin: 0 0 0.8rem;
+}
+.photo-grid img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 6px;
+}
+.photo-grid figcaption {
+  color: #555;
+  font-size: 0.85rem;
+  line-height: 1.45;
+  text-align: left;
+  margin-top: 0.35rem;
+}
+@media (max-width: 900px) { .photo-grid { column-count: 2; } }
+@media (max-width: 560px) { .photo-grid { column-count: 1; } }
+
+/* Album heading date/season qualifier — smaller, muted gray */
+.album-date {
+  font-size: 0.62em;
+  font-weight: 400;
+  color: #777;
+}

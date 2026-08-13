@@ -3,40 +3,109 @@ title: "Research"
 pagetitle: "Research — Christopher W. Blair"
 ---
 
-My research examines the political economy of conflict, migration, and climate change, with a geographic focus on the Global South. A full list of papers — peer-reviewed articles, working papers under review, and works in progress — is on my [**Publications**](publications.qmd) page. You can also find my work on [Google Scholar](https://scholar.google.com/citations?user=5VQ8Uw0AAAAJ&hl=en), [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/cwblair), and [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3093312). The major threads of my agenda are described below.
+My research examines the political economy of conflict, migration, and climate change, with a geographic focus on the Global South. My agenda spans four major threads, each described on its own page:
 
-::: {.agenda}
+- [**Book Project — *The Fortification Dilemma***](research-book-project.qmd)
+- [**Conflict**](research-conflict.qmd)
+- [**Migration & Forced Displacement**](research-migration.qmd)
+- [**Public Opinion & Foreign Policy**](research-public-opinion.qmd)
 
-## Book Project — *The Fortification Dilemma*
+A full list of my peer-reviewed articles is on my [**Publications**](publications.qmd) page. You can also find my work on [Google Scholar](https://scholar.google.com/citations?user=5VQ8Uw0AAAAJ&hl=en), [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/cwblair), and [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3093312). My working papers under review and works in progress are listed below.
 
-How does border fortification shape the micro-dynamics of civil conflict? My book pioneers a border-centric approach to the transnational dimensions of civil war. It outlines several trade-offs confronting counterinsurgents who fortify borders to stem cross-border militancy, highlighting how resource constraints shape rebel tactics, how rebels and civilians adapt to the expansion of state authority in borderland communities, and how U.S. border-security assistance has inadvertently fueled border hardening.
+## Working Papers & Under Review
 
-Recent civil conflicts — from Syria and Iraq to Afghanistan, Ukraine, India, and Somalia — highlight three phenomena: the U.S. increasingly funds border-control initiatives abroad to counter transnational threats; borders are hardening in response; and because rebels exploit transnational safe havens, border control has important consequences for the conduct of civil war. Drawing on new cross-national data on border-control measures and U.S. border-security aid, fine-grained microdata from Iraq and Afghanistan, restricted-access survey data, and qualitative archival evidence, the book shows that insurgent adaptations to border control generate critical trade-offs for counterinsurgents. Two related articles appear in the *American Journal of Political Science*, on [Iraq](https://doi.org/10.1111/ajps.12794) and [Afghanistan](https://doi.org/10.1111/ajps.12923).
+::::: {.pub}
+:::: {.pub-body}
+**[Diversionary Escalation: Theory and Evidence from Eastern Ukraine](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6174480)**
 
-## Conflict
+with Natalie Ayers, Joseph J. Ruggiero, Konstantin Sonin, and Austin L. Wright
 
-*How do counterinsurgency policies affect rebel and civilian behavior? How do the transnational dimensions of conflict shape the micro-dynamics of civil wars?* This work explores the consequences of investments in state capacity, the efficacy of combatants' efforts to build civilian support, and the resilience of militant groups under repression.
+*Revise & resubmit, American Political Science Review*
+::::
+:::::
 
-**Militant alliances.** A central contribution is the [Militant Group Alliances and Relationships (MGAR)](data.qmd) dataset, documenting 7,409 dyad-year relationships among 2,613 militant groups from 1950 to 2016. Using these data, I study how groups sustain cooperation under the shadow of repression ([*IO* 2022](https://doi.org/10.1017/S0020818321000114)), how leadership decapitation undermines alliances ([*JOP* 2022](https://doi.org/10.1086/715604)), and why major groups like al-Qaeda and the Islamic State build large transnational networks ([*JOGSS* 2023](https://doi.org/10.1093/jogss/ogac035)).
+::::: {.pub}
+:::: {.pub-body}
+**[From Allies to Neighbors: The Impact of Military Service on Public Support for Refugee Resettlement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5186927)**
 
-**Refugees and conflict.** In work with Austin L. Wright ([R&R at the *American Economic Review*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3885937)), I estimate the causal effect of a large cash-assistance program for refugee returnees on conflict in Afghanistan, finding that policy-induced return reduced insurgent violence but increased social conflict.
+with Rikio Inouye
 
-**Counterinsurgency policies.** Can state forces use reparations to mitigate civilian backlash to wartime harm? Using declassified microdata on U.S. payments to wrongfully detained civilians in Iraq (2004–2008), I find that detainee-release payments are robustly associated with reduced insurgent violence ([*JCR* 2022](https://doi.org/10.1177/00220027221080118)).
+*Revise & resubmit, American Journal of Political Science*
 
-## Migration & Forced Displacement
+[★ Winner, 2024 CivicPulse Young Investigator Competition]{.award}
+::::
+:::::
 
-*How do policymakers respond to forcibly displaced people, and how do migration policies shape where people move and the consequences of their flight?* This agenda advances and tests a theory of displacement policymaking in the Global South, emphasizing cross-border kinship, civil war, and local integration capacity.
+::::: {.pub}
+:::: {.pub-body}
+**[Territorial Control in Civil War](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4912415)**
 
-**Global South displacement policy.** The [Developing World Refugee and Asylum Policy (DWRAP)](data.qmd) dataset covers 54 *de jure* provisions across 92 countries from 1952 to 2017. With Guy Grossman and Jeremy M. Weinstein, I show that intense civil wars in neighboring countries are the primary impetus for policy reform ([*IO* 2022](https://doi.org/10.1017/S0020818321000369)), and that more liberal *de jure* policies attract forced migrants — conditional on transnational ethnic kin who diffuse policy knowledge ([*APSR* 2022](https://doi.org/10.1017/S0003055421000848)).
+with María Ballesteros, Igor Kolesnikov, and Austin L. Wright
 
-**Climate migration.** With Sabrina B. Arias, I show that the public views climate migrants as occupying an intermediate position between economic migrants and refugees ([*JOP* 2022](https://doi.org/10.1086/715163)), and that exposure to climate disasters such as Hurricane Ian briefly increases support for climate migrants and climate action, though effects decay within months ([*APSR* 2024](https://doi.org/10.1017/S0003055424000352)).
+*Revise & resubmit, World Politics*
+::::
+:::::
 
-## Public Opinion & Foreign Policy
+::::: {.pub}
+:::: {.pub-body}
+**[Building Walls, Building Bridges: Border Fortification and Insurgent Influence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5396305)**
 
-Micro-level conflict processes are inextricably linked to public opinion. In a series of papers on foreign policy, I investigate mass attitudes on gender, climate change, and conflict, emphasizing how behavioral factors like stereotypes, identity, and emotions shape perceptions and beliefs.
+with Luwei Ying
 
-**Gender stereotypes.** With Joshua A. Schwartz, I show that gender stereotypes shape audience costs — women leaders are punished more for backing down from threats ([*IO* 2020](https://doi.org/10.1017/S0020818320000223)) — and that women pay a "gendered peace premium" when pursuing conciliation ([*ISQ* 2023](https://doi.org/10.1093/isq/sqad090)).
+*Revise & resubmit, International Organization*
+::::
+:::::
 
-**Conflict and norms.** With Jonathan A. Chu and Joshua A. Schwartz, I use a list experiment to detect "insincere norm-holders" who privately support chemical-weapons use ([*JCR* 2022](https://doi.org/10.1177/00220027211057057)). With Michael C. Horowitz, I study soldiers' attitudes toward the chemical-weapons taboo in the WWII Pacific theater and the role of military training ([*JOP* 2024](https://doi.org/10.1086/726955)).
+::::: {.pub}
+:::: {.pub-body}
+**[Maximum Pressure: How Refugee Repatriation Affects Conflict](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5081898)**
 
-:::
+with Benjamin Krick and Austin L. Wright
+::::
+:::::
+
+::::: {.pub}
+:::: {.pub-body}
+**[Offshoring Migration Policy: Migrant Responses to Restrictive Policies in Transit Countries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5236161)**
+
+with Omer Solodoch
+::::
+:::::
+
+::::: {.pub}
+:::: {.pub-body}
+**[Combat Experience and Foreign Policy Attitudes: Evidence from World War II](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895940)**
+
+with Michael C. Horowitz
+::::
+:::::
+
+::::: {.pub}
+:::: {.pub-body}
+**Beyond Meating Climate Goals: Masculinity and Climate Policy Backlash**
+
+with Joshua A. Schwartz and Sabrina B. Arias
+
+[★ Winner, 2025 APSA Paul Sabatier Award for Best Paper on Science, Technology, and Environmental Politics]{.award}
+::::
+:::::
+
+::::: {.pub}
+:::: {.pub-body}
+**Do Refugees Fuel Conflict, or Just Make It Visible?**
+
+with Zhejun Qiu and Burcu Savun
+::::
+:::::
+
+## Selected Works in Progress
+
+- The Politics of Constraining Humanitarian Access in Conflict
+- Counterinsurgent Propaganda: Winning Hearts and Minds on the Airwaves (with Austin L. Wright)
+- Sequencing Conquest: How the Taliban Won Afghanistan (with Austin L. Wright)
+- Leadership Turnover and Insurgent Fratricide: Evidence from Afghanistan
+- Information Manipulation and Tactical Escalation on the Battlefield: Evidence from the Donbas (with Joseph J. Ruggiero)
+- Measuring and Fighting Online Survey Fraud (with Alexander Gazmararian)
+- Folklore and Climate Attitudes (with Shikhar Singh)
+- The Politics of Climate Adaptation: Bluelining, Insurance Reform, and Voting (with Sabrina B. Arias and Alexander Gazmararian)
+- Racial Strife in the U.S. Military During World War II (with Jeongmin Park)

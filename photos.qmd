@@ -1,0 +1,78 @@
+---
+title: "Photos"
+pagetitle: "Photos — Christopher W. Blair"
+lightbox: auto
+---
+
+Photographs from fieldwork and travel. Click any image to enlarge; use the arrows to browse an album.
+
+<!--
+Albums: Uganda · Europe · Georgia · Levant.
+To add a photo: drop the image in img/photos/ (downscale with `sips -Z 1600` if large),
+then add a line inside the album's .photo-grid div (each image needs a blank line
+before and after it, or Quarto merges consecutive images into one paragraph instead
+of separate figures):
+![Caption text.](img/photos/filename.jpg){group="album-slug"}
+Images sharing a group= value are browsable with arrows in the lightbox — keep one group
+per album (uganda / europe / georgia / levant). The Georgia album below is
+commented out until it has photos; uncomment when populating.
+-->
+
+## Uganda, [Summer 2017.]{.album-date} {#uganda}
+
+::: {.photo-grid}
+
+![Overlooking Lake Victoria, Uganda.](img/photos/uganda-lake-victoria.jpg){group="uganda"}
+
+:::
+
+## Europe
+
+::: {.photo-grid}
+
+![Rooftops of the Old Town, Tallinn, Estonia.](img/photos/tallinn-old-town.jpg){group="europe"}
+
+![PKK graffiti honoring Abdullah Öcalan ("Apo").](img/photos/pkk-graffiti.jpg){group="europe"}
+
+:::
+
+## Levant
+
+::: {.photo-grid}
+
+![IDF demolition activity along the Gaza security barrier. In the background lies the rubble of Jabalia refugee camp.](img/photos/israel-gaza-barrier-jabalia.jpg){group="levant"}
+
+![Anti-war graffiti in the Old City of Jaffa.](img/photos/israel-jaffa-peace-graffiti.jpg){group="levant"}
+
+![The destroyed remains of Kfar Kila, Lebanon along the Israel-Lebanon border wall.](img/photos/israel-lebanon-border-kfar-kila.jpg){group="levant"}
+
+![Camp Ziouani, a UNDOF observer base along the Alpha Line in the Golan Heights. Adjacent to the base lies the Israel-Syria border wall between Qunaitira, Syria and Ein Zivan, Israel.](img/photos/israel-golan-camp-ziouani.jpg){group="levant"}
+
+![UNTSO observers at the Mount Bental observation post in the Golan Heights.](img/photos/israel-golan-mount-bental-untso.jpg){group="levant"}
+
+![The destroyed remains of Qunaitira, Syria in the UNDOF disengagement zone. Initially damaged during the Six-Day War, the town suffered additional waves of destruction during the Yom Kippur War, the Syrian Civil War, and the 2024 Israeli invasion of Syria.](img/photos/israel-golan-qunaitira.jpg){group="levant"}
+
+![Signals intelligence post on Mount Avital, Israel.](img/photos/israel-golan-mount-avital-sigint.jpg){group="levant"}
+
+![Access gate to the border security road at Benaya Lookout near Metula, Israel. In the background are visible the destroyed remains of Kfar Kila, Lebanon.](img/photos/israel-metula-benaya-lookout-gate.jpg){group="levant"}
+
+![IDF armor outpost near the Lebanese border. Support buildings are covered in anti-drone netting to protect from Hezbollah drone attacks. In the background the Merkava tank also features an anti-drone cage.](img/photos/levant-idf-armor-outpost-antidrone.jpg){group="levant"}
+
+![An active minefield along the southern slopes of Mount Hermon dating to the Yom Kippur War.](img/photos/levant-mount-hermon-minefield.jpg){group="levant"}
+
+![A segment of the West Bank security wall between ’Ayda refugee camp and East Jerusalem.](img/photos/levant-west-bank-wall-ayda.jpg){group="levant"}
+
+![Homes destroyed by Hamas militants during attacks on the kibbutz at Kfar Aza, Israel on October 7, 2023.](img/photos/levant-kfar-aza-destroyed-homes.jpg){group="levant"}
+
+![A sensor tower used for border surveillance along the Israel-Lebanon boundary.](img/photos/levant-lebanon-border-sensor-tower.jpg){group="levant"}
+
+![Watchtower at Checkpoint 300 along the West Bank security barrier.](img/photos/levant-checkpoint-300-watchtower.jpg){group="levant"}
+
+:::
+
+<!--
+## Georgia
+
+::: {.photo-grid}
+:::
+-->

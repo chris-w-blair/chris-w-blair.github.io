@@ -3,7 +3,7 @@ title: "Publications"
 pagetitle: "Publications — Christopher W. Blair"
 ---
 
-Peer-reviewed articles appear below (most recent first), followed by working papers under review, other publications, and selected works in progress. Expand any **Abstract** to read the summary and see figures from the paper. Replication materials are archived on my [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/cwblair).
+Peer-reviewed articles appear below (most recent first), followed by book chapters, editor-reviewed publications, and book reviews. Expand any **Abstract** to read the summary and see figures from the paper. Replication materials are archived on my [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/cwblair).
 
 ## Peer-Reviewed Publications
 
@@ -14,7 +14,7 @@ Peer-reviewed articles appear below (most recent first), followed by working pap
 :::: {.pub-body}
 **[Refugee Return and Conflict: Evidence from a Natural Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3885937)**
 
-*Conditionally accepted, American Economic Review* · with David van Dijcke and Austin L. Wright
+*Conditionally accepted, American Economic Review* · with David van Dijcke and Austin L. Wright.
 
 <details><summary>Abstract</summary>
 
@@ -35,7 +35,7 @@ We estimate the causal effect of a large cash-assistance program for refugee ret
 :::: {.pub-body}
 **[Historical Analogies and Public Support for Foreign Policy Action](https://doi.org/10.1177/00220027251399905)**
 
-*Forthcoming, Journal of Conflict Resolution* · with Paul Lendway and Joshua A. Schwartz
+*Forthcoming, Journal of Conflict Resolution* · with Paul Lendway and Joshua A. Schwartz.
 
 <details><summary>Abstract</summary>
 
@@ -59,7 +59,7 @@ Politicians frequently use historical analogies to justify their preferred forei
 :::: {.pub-body}
 **[Dynamics of Internal Displacement and Conflict in Somalia](https://doi.org/10.1080/1369183X.2025.2595818)**
 
-*Journal of Ethnic and Migration Studies*, 2026, 52(4): 1011–1045
+*Journal of Ethnic and Migration Studies*, 2026, 52(4): 1011–1045.
 
 <details><summary>Abstract</summary>
 
@@ -83,7 +83,7 @@ Internal displacement is the most common form of forced migration worldwide, and
 :::: {.pub-body}
 **[Border Fortification and Legibility: Evidence from Afghanistan](https://doi.org/10.1111/ajps.12923)**
 
-*American Journal of Political Science*, 2025, 69(4): 1559–1580
+*American Journal of Political Science*, 2025, 69(4): 1559–1580.
 
 <details><summary>Abstract</summary>
 
@@ -109,7 +109,7 @@ States often fortify their borders against militant threats. How do these effort
 :::: {.pub-body}
 **[In the Eye of the Storm: Hurricanes, Climate Migration, and Climate Attitudes](https://doi.org/10.1017/S0003055424000352)**
 
-*American Political Science Review*, 2024, 118(4): 1593–1613 · with Sabrina B. Arias
+*American Political Science Review*, 2024, 118(4): 1593–1613 · with Sabrina B. Arias.
 
 <details><summary>Abstract</summary>
 
@@ -135,7 +135,7 @@ Climate disasters raise the salience of climate change's negative consequences, 
 :::: {.pub-body}
 **[The Fortification Dilemma: Border Control and Rebel Violence](https://doi.org/10.1111/ajps.12794)**
 
-*American Journal of Political Science*, 2024, 68(4): 1366–1385
+*American Journal of Political Science*, 2024, 68(4): 1366–1385.
 
 <details><summary>Abstract</summary>
 
@@ -159,7 +159,7 @@ Where cross-border sanctuaries enable rebels to marshal external support, classi
 :::: {.pub-body}
 **[Military Attitudes on the Chemical Weapons Taboo: Evidence from the Pacific Theater](https://doi.org/10.1086/726955)**
 
-*The Journal of Politics*, 2024, 86(3): 1075–1082 · with Michael C. Horowitz
+*The Journal of Politics*, 2024, 86(3): 1075–1082 · with Michael C. Horowitz.
 
 <details><summary>Abstract</summary>
 
@@ -182,7 +182,7 @@ Little is known about military attitudes toward weapons taboos, or the durabilit
 :::: {.pub-body}
 **[The Gendered Peace Premium](https://doi.org/10.1093/isq/sqad090)**
 
-*International Studies Quarterly*, 2023, 67(4): 1–16 · with Joshua A. Schwartz
+*International Studies Quarterly*, 2023, 67(4): 1–16 · with Joshua A. Schwartz.
 
 <details><summary>Abstract</summary>
 
@@ -208,7 +208,7 @@ The adage that "only Nixon could go to China" suggests hawkish leaders face fewe
 :::: {.pub-body}
 **[The Strategic Logic of Large Militant Alliance Networks](https://doi.org/10.1093/jogss/ogac035)**
 
-*Journal of Global Security Studies*, 2023, 8(1): 1–22 · with Philip B.K. Potter
+*Journal of Global Security Studies*, 2023, 8(1): 1–22 · with Philip B.K. Potter.
 
 <details><summary>Abstract</summary>
 
@@ -232,7 +232,7 @@ Ideological and operational credibility are essential to the success of transnat
 :::: {.pub-body}
 **[Restitution or Retribution? Detainee Release and Insurgent Violence in Iraq](https://doi.org/10.1177/00220027221080118)**
 
-*Journal of Conflict Resolution*, 2022, 66(7–8): 1356–1392
+*Journal of Conflict Resolution*, 2022, 66(7–8): 1356–1392.
 
 <details><summary>Abstract</summary>
 
@@ -256,7 +256,7 @@ Counterinsurgents frequently rely on mass arrests to impede rebel operations, bu
 :::: {.pub-body}
 **[Forced Displacement and Asylum Policy in the Developing World](https://doi.org/10.1017/S0020818321000369)**
 
-*International Organization*, 2022, 76(2): 337–378 · with Guy Grossman and Jeremy M. Weinstein
+*International Organization*, 2022, 76(2): 337–378 · with Guy Grossman and Jeremy M. Weinstein.
 
 <details><summary>Abstract</summary>
 
@@ -280,7 +280,7 @@ Little theoretical or empirical work examines migration policy in the developing
 :::: {.pub-body}
 **[The Two Faces of Opposition to Chemical Weapons: Sincere Versus Insincere Norm-Holders](https://doi.org/10.1177/00220027211057057)**
 
-*Journal of Conflict Resolution*, 2022, 66(4–5): 677–703 · with Jonathan A. Chu and Joshua A. Schwartz
+*Journal of Conflict Resolution*, 2022, 66(4–5): 677–703 · with Jonathan A. Chu and Joshua A. Schwartz.
 
 <details><summary>Abstract</summary>
 
@@ -304,7 +304,7 @@ Prominent research holds that the use of weapons of mass destruction is taboo. B
 :::: {.pub-body}
 **[Leadership Targeting and Militant Alliance Breakdown](https://doi.org/10.1086/715604)**
 
-*The Journal of Politics*, 2022, 84(2): 923–943 · with Michael C. Horowitz and Philip B.K. Potter
+*The Journal of Politics*, 2022, 84(2): 923–943 · with Michael C. Horowitz and Philip B.K. Potter.
 
 <details><summary>Abstract</summary>
 
@@ -328,7 +328,7 @@ Cooperation between militant groups is common and contributes to both capabiliti
 :::: {.pub-body}
 **[Honor Among Thieves: Understanding Rhetorical and Material Cooperation Among Violent Non-State Actors](https://doi.org/10.1017/S0020818321000114)**
 
-*International Organization*, 2022, 76(1): 164–203 · with Erica Chenoweth, Michael C. Horowitz, Evan Perkoski, and Philip B.K. Potter
+*International Organization*, 2022, 76(1): 164–203 · with Erica Chenoweth, Michael C. Horowitz, Evan Perkoski, and Philip B.K. Potter.
 
 <details><summary>Abstract</summary>
 
@@ -352,7 +352,7 @@ Cooperation among militant organizations contributes to capability but also pres
 :::: {.pub-body}
 **[Liberal Displacement Policies Attract Forced Migrants in the Global South](https://doi.org/10.1017/S0003055421000848)**
 
-*American Political Science Review*, 2022, 116(1): 351–358 · with Guy Grossman and Jeremy M. Weinstein
+*American Political Science Review*, 2022, 116(1): 351–358 · with Guy Grossman and Jeremy M. Weinstein.
 
 <details><summary>Abstract</summary>
 
@@ -376,7 +376,7 @@ Most forced migrants are displaced within the Global South. We study whether and
 :::: {.pub-body}
 **[Changing Tides: Public Attitudes on Climate Migration](https://doi.org/10.1086/715163)**
 
-*The Journal of Politics*, 2022, 84(1): 560–567 · with Sabrina B. Arias
+*The Journal of Politics*, 2022, 84(1): 560–567 · with Sabrina B. Arias.
 
 <details><summary>Abstract</summary>
 
@@ -399,7 +399,7 @@ Little existing work studies public perceptions of climate-induced migration. We
 :::: {.pub-body}
 **[Do Women Make More Credible Threats? Gender Stereotypes, Audience Costs, and Crisis Bargaining](https://doi.org/10.1017/S0020818320000223)**
 
-*International Organization*, 2020, 74(4): 872–895 · with Joshua A. Schwartz
+*International Organization*, 2020, 74(4): 872–895 · with Joshua A. Schwartz.
 
 <details><summary>Abstract</summary>
 
@@ -418,105 +418,59 @@ As more women attain executive office, it is important to understand how gender 
 ::::
 :::::
 
-## Working Papers & Under Review
+## Book Chapters
 
 ::::: {.pub}
+:::: {.pubnum}
+(1.)
+::::
 :::: {.pub-body}
-**[Diversionary Escalation: Theory and Evidence from Eastern Ukraine](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6174480)**
+**[Border Walls and Security](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5130316)**
 
-with Natalie Ayers, Joseph J. Ruggiero, Konstantin Sonin, and Austin L. Wright
+*Handbook on Border Walls* (Elisabeth Vallet, ed.), Edward Elgar, forthcoming · with Jeongmin Park.
+::::
+:::::
 
-*Revise & resubmit, American Political Science Review*
+## Editor-Reviewed Publications
+
+::::: {.pub}
+:::: {.pubnum}
+(1.)
+::::
+:::: {.pub-body}
+**[Discussion of "Public Policies for Peace"](https://doi.org/10.1093/epolic/eiaf021)**
+
+*Economic Policy*, 2025, 40(124): 927–929.
+
+[PDF](files/article-discussion-of-public-policies-for-peace.pdf)
+::::
+:::::
+
+## Book Reviews
+
+::::: {.pub}
+:::: {.pubnum}
+(2.)
+::::
+:::: {.pub-body}
+**[Governing the Displaced: Race and Ambivalence in Global Capitalism](https://www.h-net.org/reviews/showrev.php?id=61118)** by Ali Bhagat
+
+*H-Diplo*, 2024.
+
+[PDF](files/book-review-governing-the-displaced.pdf)
 ::::
 :::::
 
 ::::: {.pub}
+:::: {.pubnum}
+(1.)
+::::
 :::: {.pub-body}
-**[From Allies to Neighbors: The Impact of Military Service on Public Support for Refugee Resettlement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5186927)**
+**[Discrimination and Delegation: Explaining State Responses to Refugees](https://doi.org/10.1177/01979183221105260)** by Lamis Elmy Abdelaaty
 
-with Rikio Inouye
+*International Migration Review*, 2023, 57(1): 475–477.
 
-*Revise & resubmit, American Journal of Political Science*
-
-[★ Winner, 2024 CivicPulse Young Investigator Competition]{.award}
+[PDF](files/book-review-discrimination-and-delegation.pdf)
 ::::
 :::::
 
-::::: {.pub}
-:::: {.pub-body}
-**[Territorial Control in Civil War](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4912415)**
-
-with María Ballesteros, Igor Kolesnikov, and Austin L. Wright
-
-*Revise & resubmit, World Politics*
-::::
-:::::
-
-::::: {.pub}
-:::: {.pub-body}
-**[Maximum Pressure: How Refugee Repatriation Affects Conflict](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5081898)**
-
-with Benjamin Krick and Austin L. Wright
-::::
-:::::
-
-::::: {.pub}
-:::: {.pub-body}
-**[Offshoring Migration Policy: Migrant Responses to Restrictive Policies in Transit Countries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5236161)**
-
-with Omer Solodoch
-::::
-:::::
-
-::::: {.pub}
-:::: {.pub-body}
-**[Building Walls, Building Bridges: Border Fortification and Insurgent Influence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5396305)**
-
-with Luwei Ying
-::::
-:::::
-
-::::: {.pub}
-:::: {.pub-body}
-**[Combat Experience and Foreign Policy Attitudes: Evidence from World War II](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895940)**
-
-with Michael C. Horowitz
-::::
-:::::
-
-::::: {.pub}
-:::: {.pub-body}
-**Beyond Meating Climate Goals: Masculinity and Climate Policy Backlash**
-
-with Joshua A. Schwartz and Sabrina B. Arias
-
-[★ Winner, 2025 APSA Paul Sabatier Award for Best Paper on Science, Technology, and Environmental Politics]{.award}
-::::
-:::::
-
-::::: {.pub}
-:::: {.pub-body}
-**Do Refugees Fuel Conflict, or Just Make It Visible?**
-
-with Zhejun Qiu and Burcu Savun
-::::
-:::::
-
-## Other Publications
-
-- **Border Walls and Security** (with Jeongmin Park). Forthcoming in Elisabeth Vallet (ed.), *Handbook on Border Walls*. Edward Elgar.
-- **Discussion of "Public Policies for Peace."** 2025. *Economic Policy* 40(124): 927–929.
-- Review of *Governing the Displaced: Race and Ambivalence in Global Capitalism* by Ali Bhagat. 2024. *H-Diplo*.
-- Review of *Discrimination and Delegation: Explaining State Responses to Refugees* by Lamis Elmy Abdelaaty. 2023. *International Migration Review* 57(1): 475–477.
-
-## Selected Works in Progress
-
-- The Politics of Constraining Humanitarian Access in Conflict
-- Counterinsurgent Propaganda: Winning Hearts and Minds on the Airwaves (with Austin L. Wright)
-- Sequencing Conquest: How the Taliban Won Afghanistan (with Austin L. Wright)
-- Leadership Turnover and Insurgent Fratricide: Evidence from Afghanistan
-- Information Manipulation and Tactical Escalation on the Battlefield: Evidence from the Donbas (with Joseph J. Ruggiero)
-- Measuring and Fighting Online Survey Fraud (with Alexander Gazmararian)
-- Folklore and Climate Attitudes (with Shikhar Singh)
-- The Politics of Climate Adaptation: Bluelining, Insurance Reform, and Voting (with Sabrina B. Arias and Alexander Gazmararian)
-- Racial Strife in the U.S. Military During World War II (with Jeongmin Park)
