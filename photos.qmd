@@ -7,7 +7,7 @@ lightbox: auto
 Photographs from fieldwork and travel. Click any image to enlarge; use the arrows to browse an album.
 
 <!--
-Albums: Uganda · Europe · Georgia · Levant.
+Albums: Uganda · Europe · Georgia · Israel/Palestine.
 To add a photo: drop the image in img/photos/ (downscale with `sips -Z 1600` if large),
 then add a line inside the album's .photo-grid div (each image needs a blank line
 before and after it, or Quarto merges consecutive images into one paragraph instead
@@ -16,6 +16,10 @@ of separate figures):
 Images sharing a group= value are browsable with arrows in the lightbox — keep one group
 per album (uganda / europe / georgia / levant). The Georgia album below is
 commented out until it has photos; uncomment when populating.
+The "Israel/Palestine" album heading displays that name, but its internal id/group
+stays "levant" (heading was originally "Levant") so existing cached image URLs and
+lightbox grouping keep working — new photos still use group="levant".
+Heading dates use [Season Year.]{.album-date} for a smaller inline qualifier.
 -->
 
 ## Uganda, [Summer 2017.]{.album-date} {#uganda}
@@ -56,7 +60,7 @@ commented out until it has photos; uncomment when populating.
 
 :::
 
-## Levant
+## Israel/Palestine, [Summer 2026.]{.album-date} {#levant}
 
 ::: {.photo-grid}
 
