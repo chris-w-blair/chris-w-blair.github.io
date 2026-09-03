@@ -3,4 +3,6 @@ title: "In Development"
 pagetitle: "Datasets in Development — Christopher W. Blair"
 ---
 
+**Ceasefire Violations in Eastern Ukraine, 2015–2022.** With Natalie Ayers, Joseph J. Ruggiero, Konstantin Sonin, and Austin L. Wright, I am assembling administrative microdata covering more than 2 million ceasefire violations in Eastern Ukraine from April 2015 through February 2022. We use these data to study the dynamics of escalation along the line of contact in the Donbas, including in our paper [*Diversionary Escalation: Theory and Evidence from Eastern Ukraine*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6174480).
+
 **Freedmen's Education During Reconstruction (FEDR).** With Breanna C. Gray, I am digitizing educational records of the Bureau of Refugees, Freedmen, and Abandoned Lands (the Freedmen's Bureau), reporting the educational attainments of emancipated people in the Reconstruction-era American South, disaggregated by gender, subject, county, and month. We use these data to study how occupation forces shaped engagement with Freedmen's Bureau schools and the political and economic legacies of Reconstruction-era education.
