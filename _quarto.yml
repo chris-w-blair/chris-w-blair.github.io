@@ -1,8 +1,12 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - "*.qmd"
+    - "!photos.qmd"   # Photos page taken down 2026-09-03; delete this line (and restore the navbar item) to bring it back
   resources:
     - img/
+    - "!img/photos/"  # photos assets stay in the repo but off the live site (Photos takedown 2026-09-03)
     - files/
     - CNAME
 
@@ -54,8 +58,10 @@ website:
         href: teaching.qmd
       - text: "Commentary"
         href: commentary.qmd
-      - text: "Photos"
-        href: photos.qmd
+      # Photos page taken down 2026-09-03 — to restore, uncomment this item and
+      # remove the "!photos.qmd" render exclusion above, then republish.
+      # - text: "Photos"
+      #   href: photos.qmd
     right:
       - icon: envelope
         href: "mailto:chris.blair@princeton.edu"
