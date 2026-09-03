@@ -1,75 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://chriswblair.com/data.html</loc>
-    <lastmod>2026-08-13T20:03:14.501Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chriswblair.com/commentary.html</loc>
-    <lastmod>2026-08-13T19:55:18.921Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chriswblair.com/photos.html</loc>
-    <lastmod>2026-08-13T20:43:33.164Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chriswblair.com/data-afghanistan-sigacts.html</loc>
-    <lastmod>2026-08-13T20:04:08.099Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chriswblair.com/publications.html</loc>
-    <lastmod>2026-08-26T03:47:37.839Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chriswblair.com/index.html</loc>
-    <lastmod>2026-08-13T19:54:07.470Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chriswblair.com/data-in-development.html</loc>
-    <lastmod>2026-08-13T20:04:42.586Z</lastmod>
+    <loc>https://chriswblair.com/teaching.html</loc>
+    <lastmod>2026-08-13T19:59:04.705Z</lastmod>
   </url>
   <url>
     <loc>https://chriswblair.com/research-public-opinion.html</loc>
     <lastmod>2026-08-13T20:03:29.245Z</lastmod>
   </url>
   <url>
-    <loc>https://chriswblair.com/teaching.html</loc>
-    <lastmod>2026-08-13T19:59:04.705Z</lastmod>
+    <loc>https://chriswblair.com/research-conflict.html</loc>
+    <lastmod>2026-08-13T20:03:07.991Z</lastmod>
   </url>
   <url>
-    <loc>https://chriswblair.com/research-book-project.html</loc>
-    <lastmod>2026-08-13T20:03:47.385Z</lastmod>
+    <loc>https://chriswblair.com/publications.html</loc>
+    <lastmod>2026-08-26T03:47:37.839Z</lastmod>
   </url>
   <url>
-    <loc>https://chriswblair.com/research.html</loc>
-    <lastmod>2026-08-13T20:02:58.196Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chriswblair.com/data-dwrap.html</loc>
-    <lastmod>2026-08-13T20:03:32.087Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chriswblair.com/data-somalia-sigacts.html</loc>
-    <lastmod>2026-08-13T20:04:19.762Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chriswblair.com/data-coast-guard.html</loc>
-    <lastmod>2026-08-13T20:04:36.695Z</lastmod>
+    <loc>https://chriswblair.com/data.html</loc>
+    <lastmod>2026-08-13T20:03:14.501Z</lastmod>
   </url>
   <url>
     <loc>https://chriswblair.com/data-mgar.html</loc>
     <lastmod>2026-08-13T20:03:51.581Z</lastmod>
   </url>
   <url>
-    <loc>https://chriswblair.com/research-migration.html</loc>
-    <lastmod>2026-08-13T20:03:18.343Z</lastmod>
+    <loc>https://chriswblair.com/data-dwrap.html</loc>
+    <lastmod>2026-08-13T20:03:32.087Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chriswblair.com/data-afghanistan-sigacts.html</loc>
+    <lastmod>2026-08-13T20:04:08.099Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chriswblair.com/commentary.html</loc>
+    <lastmod>2026-08-13T19:55:18.921Z</lastmod>
   </url>
   <url>
     <loc>https://chriswblair.com/cv.html</loc>
     <lastmod>2026-08-13T19:54:11.802Z</lastmod>
   </url>
   <url>
-    <loc>https://chriswblair.com/research-conflict.html</loc>
-    <lastmod>2026-08-13T20:03:07.991Z</lastmod>
+    <loc>https://chriswblair.com/data-coast-guard.html</loc>
+    <lastmod>2026-08-13T20:04:36.695Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chriswblair.com/data-in-development.html</loc>
+    <lastmod>2026-08-13T20:04:42.586Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chriswblair.com/data-somalia-sigacts.html</loc>
+    <lastmod>2026-08-13T20:04:19.762Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chriswblair.com/index.html</loc>
+    <lastmod>2026-08-13T19:54:07.470Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chriswblair.com/research-book-project.html</loc>
+    <lastmod>2026-08-13T20:03:47.385Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chriswblair.com/research-migration.html</loc>
+    <lastmod>2026-08-13T20:03:18.343Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chriswblair.com/research.html</loc>
+    <lastmod>2026-08-13T20:02:58.196Z</lastmod>
   </url>
 </urlset>
