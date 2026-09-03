@@ -12,9 +12,9 @@ Peer-reviewed articles appear below (most recent first), followed by book chapte
 (17.)
 ::::
 :::: {.pub-body}
-**[Refugee Return and Conflict: Evidence from a Natural Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3885937)**
+**[Refugee Return and Conflict: Evidence from a Natural Experiment](https://www.aeaweb.org/articles?id=10.1257/aer.20221434)**
 
-*Conditionally accepted, American Economic Review* · with David van Dijcke and Austin L. Wright.
+*Forthcoming, American Economic Review* · with David van Dijcke and Austin L. Wright.
 
 <details><summary>Abstract</summary>
 
@@ -22,7 +22,7 @@ We estimate the causal effect of a large cash-assistance program for refugee ret
 
 </details>
 
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3885937)
+[Publisher](https://www.aeaweb.org/articles?id=10.1257/aer.20221434) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3885937)
 
 [★ Runner-Up, 2023 ISA Kenneth Boulding Award for Peace Studies]{.award}
 ::::

@@ -61,6 +61,7 @@ We conceptualize refugee and asylum policy as a combination of provisions regula
 ### Key references
 
 ::: {.data-links}
+- Blair, Christopher W., and Guy Grossman. "The Dataset of World Refugee and Asylum Policies (DWRAP): *de jure* asylum policy for 205 countries, 1951–2022." Working paper.
 - World Bank, with Christopher W. Blair, Guy Grossman, and Jeremy M. Weinstein. 2024. "[Dataset of World Refugee and Asylum Policies](https://datacatalog.worldbank.org/search/dataset/0066171/Dataset-of-World-Refugee-and-Asylum-Policies)." *World Bank Development Data Hub*.
 - Blair, Christopher W., Guy Grossman, and Jeremy M. Weinstein. 2022. "[Liberal Displacement Policies Attract Forced Migrants in the Global South](https://doi.org/10.1017/S0003055421000848)." *American Political Science Review* 116(1): 351–358.
 - Blair, Christopher W., Guy Grossman, and Jeremy M. Weinstein. 2022. "[Forced Displacement and Asylum Policy in the Developing World](https://doi.org/10.1017/S0020818321000369)." *International Organization* 76(2): 337–378.

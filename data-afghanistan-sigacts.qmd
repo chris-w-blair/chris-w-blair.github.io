@@ -57,5 +57,5 @@ High-fidelity conflict microdata are essential for understanding the dynamics of
 ::: {.data-links}
 - Blair, Christopher W. "The Politics of Constraining Humanitarian Access in Conflict." Working paper, Princeton University.
 - Blair, Christopher W. 2025. "[Border Fortification and Legibility: Evidence from Afghanistan](https://doi.org/10.1111/ajps.12923)." *American Journal of Political Science* 69(4): 1559–1580.
-- Blair, Christopher W., David van Dijcke, and Austin L. Wright. "[Refugee Return and Conflict: Evidence from a Natural Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3885937)." Conditionally accepted, *American Economic Review*.
+- Blair, Christopher W., David van Dijcke, and Austin L. Wright. "[Refugee Return and Conflict: Evidence from a Natural Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3885937)." Forthcoming, *American Economic Review*.
 :::

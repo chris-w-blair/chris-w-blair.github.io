@@ -38,7 +38,7 @@ with Rikio Inouye
 
 ::::: {.pub}
 :::: {.pub-body}
-**[Territorial Control in Civil War](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4912415)**
+**[Territorial Control in Civil Wars](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4912415)**
 
 with María Ballesteros, Igor Kolesnikov, and Austin L. Wright
 
@@ -69,6 +69,14 @@ with Benjamin Krick and Austin L. Wright
 **[Offshoring Migration Policy: Migrant Responses to Restrictive Policies in Transit Countries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5236161)**
 
 with Omer Solodoch
+::::
+:::::
+
+::::: {.pub}
+:::: {.pub-body}
+**The Dataset of World Refugee and Asylum Policies (DWRAP): *de jure* asylum policy for 205 countries, 1951–2022**
+
+with Guy Grossman
 ::::
 :::::
 
