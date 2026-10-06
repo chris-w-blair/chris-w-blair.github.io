@@ -62,9 +62,9 @@ with Omer Solodoch
 
 ::::: {.pub}
 :::: {.pub-body}
-**The Dataset of World Refugee and Asylum Policies (DWRAP): *de jure* asylum policy for 205 countries, 1951–2022**
+**[The Dataset of World Refugee and Asylum Policies (DWRAP): *de jure* asylum policy for 205 countries, 1951–2022](https://doi.org/10.31235/osf.io/6uqkt_v1)**
 
-with Guy Grossman
+with Guy Grossman and Jeremy M. Weinstein
 ::::
 :::::
 
