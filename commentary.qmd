@@ -3,7 +3,9 @@ title: "Commentary"
 pagetitle: "Commentary — Christopher W. Blair"
 ---
 
-My writing has been featured in policy and popular-press outlets including *Foreign Affairs*, the *Washington Post*, *Lawfare*, *Defense One*, the *Bulletin of the Atomic Scientists*, *Political Violence at a Glance*, and *Democracy Paradox*.
+My writing has been featured in policy and popular-press outlets including *Foreign Affairs*, the *Washington Post*, *VoxDev*, *Lawfare*, *Defense One*, the *Bulletin of the Atomic Scientists*, *Political Violence at a Glance*, and *Democracy Paradox*.
+
+- "[Paying Refugees to Go Home: Lessons from Afghanistan's Cash-for-Return Experiment](https://voxdev.org/topic/migration-urbanisation/paying-refugees-go-home-lessons-afghanistans-cash-return-experiment)." *VoxDev*, 2026. (with David van Dijcke and Austin L. Wright).
 
 - "[From Informational Asymmetry to Alignment: Decentralized Physical Infrastructure and the Future of Data for Global Development](https://drive.google.com/file/d/187tOxU4ko9uXPBDy8Y1qEh_KLBhTD_rs/view)." *Princeton Center for the Decentralization of Power Through Blockchain Technology*, 2026. (with Stephen Porter).
 
