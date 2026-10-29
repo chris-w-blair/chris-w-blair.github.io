@@ -46,6 +46,16 @@ with Luwei Ying
 
 ::::: {.pub}
 :::: {.pub-body}
+**Do Refugees Fuel Conflict, or Just Make It Visible?**
+
+with Zhejun Qiu and Burcu Savun
+
+*Revise & resubmit, American Journal of Political Science*
+::::
+:::::
+
+::::: {.pub}
+:::: {.pub-body}
 **[Maximum Pressure: How Refugee Repatriation Affects Conflict](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5081898)**
 
 with Benjamin Krick and Austin L. Wright
@@ -83,14 +93,6 @@ with Michael C. Horowitz
 with Joshua A. Schwartz and Sabrina B. Arias
 
 [★ Winner, 2025 APSA Paul Sabatier Award for Best Paper on Science, Technology, and Environmental Politics]{.award}
-::::
-:::::
-
-::::: {.pub}
-:::: {.pub-body}
-**Do Refugees Fuel Conflict, or Just Make It Visible?**
-
-with Zhejun Qiu and Burcu Savun
 ::::
 :::::
 
